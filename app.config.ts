@@ -4,7 +4,7 @@ export default defineAppConfig({
 
   socials: {
     twitter: '',
-    github: 'https://github.com/personalleandrocesar'
+    github: 'personalleandrocesar'
   },
 
   nuxtIcon: {
